@@ -1,0 +1,6 @@
+{
+  "name": "Wildcard Labs",
+  "description": "AI-powered automation and intelligent workflows for businesses. Remove repetitive admin and manual processes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
